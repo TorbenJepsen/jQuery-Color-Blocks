@@ -1,0 +1,23 @@
+.box{
+    width: 100px;
+    height: 100px;
+    margin-left: 5px;
+    margin-right: 5px;
+    float: left;
+}
+
+.red{
+    background: red;
+}
+
+.yellow{
+    background: yellow;
+}
+
+.green{
+    background: green;
+}
+
+.blue{
+    background: blue;
+}
